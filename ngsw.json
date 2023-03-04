@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1677914813126,
+  "timestamp": 1677915629934,
   "index": "https://jkhooper.github.io/j-n-j/index.html",
   "assetGroups": [
     {
@@ -858,7 +858,7 @@
     "https://jkhooper.github.io/j-n-j/assets/scss/themes.scss": "29308b886c294820c24138a94996f73e20a52eac",
     "https://jkhooper.github.io/j-n-j/index.html": "6682c49b871e4b98ff062a6149c855e845775ebb",
     "https://jkhooper.github.io/j-n-j/main.9b153c5be605cbc1.js": "30b3828096634c603daaf5d265de3e654d9bb52e",
-    "https://jkhooper.github.io/j-n-j/manifest.webmanifest": "4d733f77770112ca4d2f0f11382e139df1678c23",
+    "https://jkhooper.github.io/j-n-j/manifest.webmanifest": "4e7a743a34316c5d2a482bbbad8f0e02d32149ef",
     "https://jkhooper.github.io/j-n-j/polyfills.0251ac485bce7f16.js": "f0ca08b9871200b5110cb02028adbff78faa14d2",
     "https://jkhooper.github.io/j-n-j/runtime.4c4f44f42621d7f1.js": "baf32dfa809b7ee80d5c5bf9c128bb71acd693ab",
     "https://jkhooper.github.io/j-n-j/styles.d9047711ffeacfcc.css": "c8f5f3255efce995f504a7f8edb7c95aceab335d"
