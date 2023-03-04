@@ -9,9 +9,8 @@ import { map, shareReplay } from 'rxjs/operators';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent implements OnInit {
-  title = 'ekbf-ui';
   active_tab: number = 0;
-  pdfSrc: string = '/assets/jj23.pdf';
+  pdfSrc: string = '/j-n-j/assets/jj23.pdf';
 
   isHandset$: Observable<boolean> = this.breakpointObserver.observe(Breakpoints.Handset)
     .pipe(
