@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class AppComponent implements OnInit {
   ready: boolean = false;
-  pdfSrc: string = '/j-n-j/assets/jj23.pdf';
+  pdfSrc: string = '/j-n-j/assets/jj23-t.pdf';
 
   constructor() { }
 
